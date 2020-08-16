@@ -13,3 +13,12 @@ Scientist and Python developer.
 * 📫 You can reach me best via e-mail to info@martin-thoma.de
 
 If you like my work, you can support me: [![PayPal](https://img.shields.io/badge/-PayPal.me-informational?style=flat&logo=PayPal&logoColor=white&link=https://www.paypal.me/martinthoma)](https://www.paypal.me/martinthoma)
+
+---
+
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinthoma&count_private=true&show_icons=false&theme=vue" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinthoma&theme=vue" />
+</a>
