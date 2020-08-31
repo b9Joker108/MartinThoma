@@ -20,9 +20,20 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinthoma&count_private=true&show_icons=false&theme=vue" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinthoma&theme=vue" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinthoma&theme=vue&show_icons=true" />
 </a>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+## Programming Languages and Technology
+
+<a href="https://stackoverflow.com/help/badges/51/python?userid=562769"><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></a>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
