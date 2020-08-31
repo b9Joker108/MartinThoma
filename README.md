@@ -22,3 +22,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinthoma&theme=vue" />
 </a>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
