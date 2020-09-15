@@ -25,6 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging Basics in Python](https://towardsdatascience.com/logging-basics-in-python-d0db13e538f9?source=rss-287aa3cfe747------2)
 - [Pre-commit hooks you must know](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e?source=rss-287aa3cfe747------2)
 - [How to Dive Deep Into Any Topic](https://medium.com/@MartinThoma/how-to-dive-deep-into-any-topic-1b227cdfe889?source=rss-287aa3cfe747------2)
 - [Pytest Plugins to Love ❤️](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22?source=rss-287aa3cfe747------2)
