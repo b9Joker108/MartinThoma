@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write Flake8 plugins](https://medium.com/analytics-vidhya/how-to-write-flake8-plugins-5c5c47faffc2?source=rss-287aa3cfe747------2)
+- [How Twitter’s Image Choice is Biased](https://towardsdatascience.com/how-twitters-image-choice-is-biased-8d3f0ba63379?source=rss-287aa3cfe747------2)
 - [Client vs Customer](https://medium.com/plain-and-simple/client-vs-customer-df3d6a9011a8?source=rss-287aa3cfe747------2)
 - [Logging Basics in Python](https://towardsdatascience.com/logging-basics-in-python-d0db13e538f9?source=rss-287aa3cfe747------2)
 - [Pre-commit hooks you must know](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e?source=rss-287aa3cfe747------2)
-- [How to Dive Deep Into Any Topic](https://medium.com/@MartinThoma/how-to-dive-deep-into-any-topic-1b227cdfe889?source=rss-287aa3cfe747------2)
-- [Pytest Plugins to Love ❤️](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
