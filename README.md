@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Efficiency vs Effectivity](https://medium.com/plain-and-simple/efficiency-vs-effectivity-d2388eabd05d?source=rss-287aa3cfe747------2)
 - [Safe vs Secure](https://medium.com/plain-and-simple/safe-vs-secure-456ba5ebe95b?source=rss-287aa3cfe747------2)
 - [Localization vs Internationalization](https://medium.com/plain-and-simple/localization-vs-internationalization-fd2561dfdbcb?source=rss-287aa3cfe747------2)
 - [How to write Flake8 plugins](https://medium.com/analytics-vidhya/how-to-write-flake8-plugins-5c5c47faffc2?source=rss-287aa3cfe747------2)
 - [How Twitter’s Image Choice is Biased](https://towardsdatascience.com/how-twitters-image-choice-is-biased-8d3f0ba63379?source=rss-287aa3cfe747------2)
-- [Client vs Customer](https://medium.com/plain-and-simple/client-vs-customer-df3d6a9011a8?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
