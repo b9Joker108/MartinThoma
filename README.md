@@ -25,10 +25,10 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic vs Personalized](https://towardsdatascience.com/dynamic-vs-personalized-4689bb9e4648?source=rss-287aa3cfe747------2)
 - [JSON encoding/decoding with Python](https://levelup.gitconnected.com/json-encoding-decoding-with-python-62a2cae63a6a?source=rss-287aa3cfe747------2)
 - [Identification vs Authentication vs Authorization](https://medium.com/plain-and-simple/identification-vs-authentication-vs-authorization-e1f03a0ca885?source=rss-287aa3cfe747------2)
 - [Efficiency vs Effectivity](https://medium.com/plain-and-simple/efficiency-vs-effectivity-d2388eabd05d?source=rss-287aa3cfe747------2)
-- [Safe vs Secure](https://medium.com/plain-and-simple/safe-vs-secure-456ba5ebe95b?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
