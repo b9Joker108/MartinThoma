@@ -25,6 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Leaking Secrets](https://levelup.gitconnected.com/leaking-secrets-240a3484cb80?source=rss-287aa3cfe747------2)
 - [SQL Injections](https://medium.com/faun/sql-injections-e8bc9a14c95?source=rss-287aa3cfe747------2)
 - [Dynamic vs Personalized](https://towardsdatascience.com/dynamic-vs-personalized-4689bb9e4648?source=rss-287aa3cfe747------2)
 - [JSON encoding/decoding with Python](https://levelup.gitconnected.com/json-encoding-decoding-with-python-62a2cae63a6a?source=rss-287aa3cfe747------2)
