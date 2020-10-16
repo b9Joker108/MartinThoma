@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cross-site Scripting (XSS)](https://levelup.gitconnected.com/cross-site-scripting-xss-fd374ce71b2f?source=rss-287aa3cfe747------2)
 - [Leaking Secrets](https://levelup.gitconnected.com/leaking-secrets-240a3484cb80?source=rss-287aa3cfe747------2)
 - [SQL Injections](https://medium.com/faun/sql-injections-e8bc9a14c95?source=rss-287aa3cfe747------2)
 - [Dynamic vs Personalized](https://towardsdatascience.com/dynamic-vs-personalized-4689bb9e4648?source=rss-287aa3cfe747------2)
 - [JSON encoding/decoding with Python](https://levelup.gitconnected.com/json-encoding-decoding-with-python-62a2cae63a6a?source=rss-287aa3cfe747------2)
-- [Identification vs Authentication vs Authorization](https://medium.com/plain-and-simple/identification-vs-authentication-vs-authorization-e1f03a0ca885?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
