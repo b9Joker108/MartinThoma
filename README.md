@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Editors in Review: Sublime Text](https://medium.com/python-in-plain-english/python-editors-in-review-sublime-text-b71956c32375?source=rss-287aa3cfe747------2)
 - [A Beginner’s Guide to Python Development on Windows 10](https://medium.com/python-in-plain-english/a-beginners-guide-to-python-development-on-windows-10-e9d80601f483?source=rss-287aa3cfe747------2)
 - [Password Hashing](https://levelup.gitconnected.com/password-hashing-eb3b97684636?source=rss-287aa3cfe747------2)
 - [Cross-site Scripting (XSS)](https://levelup.gitconnected.com/cross-site-scripting-xss-fd374ce71b2f?source=rss-287aa3cfe747------2)
 - [Leaking Secrets](https://levelup.gitconnected.com/leaking-secrets-240a3484cb80?source=rss-287aa3cfe747------2)
-- [SQL Injections](https://medium.com/faun/sql-injections-e8bc9a14c95?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
