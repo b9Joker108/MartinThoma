@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio Code — Python Editors in Review](https://towardsdatascience.com/visual-studio-code-python-editors-in-review-e5e4f269b4e4?source=rss-287aa3cfe747------2)
 - [ZIP Bombs](https://medium.com/bugbountywriteup/zip-bombs-30337a1b0112?source=rss-287aa3cfe747------2)
 - [PyCharm Professional — Python Editors in Review](https://medium.com/python-in-plain-english/pycharm-professional-python-editors-in-review-b978f0e5c4ba?source=rss-287aa3cfe747------2)
 - [Python Editors in Review: Sublime Text](https://medium.com/python-in-plain-english/python-editors-in-review-sublime-text-b71956c32375?source=rss-287aa3cfe747------2)
 - [A Beginner’s Guide to Python Development on Windows 10](https://medium.com/python-in-plain-english/a-beginners-guide-to-python-development-on-windows-10-e9d80601f483?source=rss-287aa3cfe747------2)
-- [Password Hashing](https://levelup.gitconnected.com/password-hashing-eb3b97684636?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
