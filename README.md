@@ -25,9 +25,9 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Packaging in Python: Tools and Formats](https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee?source=rss-287aa3cfe747------2)
 - [pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a?source=rss-287aa3cfe747------2)
 - [Visual Studio Code — Python Editors in Review](https://towardsdatascience.com/visual-studio-code-python-editors-in-review-e5e4f269b4e4?source=rss-287aa3cfe747------2)
-- [ZIP Bombs](https://medium.com/bugbountywriteup/zip-bombs-30337a1b0112?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
