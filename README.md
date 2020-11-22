@@ -28,7 +28,6 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [How to get an amazing Terminal](https://towardsdatascience.com/how-to-get-an-amazing-terminal-91619a0beeb7?source=rss-287aa3cfe747------2)
 - [Packaging in Python: Tools and Formats](https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee?source=rss-287aa3cfe747------2)
 - [pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a?source=rss-287aa3cfe747------2)
-- [Visual Studio Code — Python Editors in Review](https://towardsdatascience.com/visual-studio-code-python-editors-in-review-e5e4f269b4e4?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
