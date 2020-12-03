@@ -29,7 +29,6 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 - [CAPTCHA](https://medium.com/plain-and-simple/captcha-500991bd90a3?source=rss-287aa3cfe747------2)
 - [Variable Scope in Python](https://towardsdatascience.com/but-its-not-declared-40501fb1e943?source=rss-287aa3cfe747------2)
 - [How to get an amazing Terminal](https://towardsdatascience.com/how-to-get-an-amazing-terminal-91619a0beeb7?source=rss-287aa3cfe747------2)
-- [Packaging in Python: Tools and Formats](https://towardsdatascience.com/packaging-in-python-tools-and-formats-743ead5f39ee?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
