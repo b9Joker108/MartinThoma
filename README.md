@@ -25,6 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Composition Analysis (SCA)](https://medium.com/python-in-plain-english/software-composition-analysis-sca-7e573214a98e?source=rss-287aa3cfe747------2)
 - [Email Spoofing](https://medium.com/bugbountywriteup/email-spoofing-9da8d33406bf?source=rss-287aa3cfe747------2)
 - [CAPTCHA](https://medium.com/plain-and-simple/captcha-500991bd90a3?source=rss-287aa3cfe747------2)
 - [Variable Scope in Python](https://towardsdatascience.com/but-its-not-declared-40501fb1e943?source=rss-287aa3cfe747------2)
