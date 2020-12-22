@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effective Access Control](https://levelup.gitconnected.com/effective-access-control-331f883cb0ff?source=rss-287aa3cfe747------2)
 - [The Cyber Security Triad](https://medium.com/plain-and-simple/the-cyber-security-triad-df9911f85955?source=rss-287aa3cfe747------2)
 - [XXE attacks](https://medium.com/faun/xxe-attacks-750e91448e8f?source=rss-287aa3cfe747------2)
 - [Software Composition Analysis (SCA)](https://medium.com/python-in-plain-english/software-composition-analysis-sca-7e573214a98e?source=rss-287aa3cfe747------2)
 - [Email Spoofing](https://medium.com/bugbountywriteup/email-spoofing-9da8d33406bf?source=rss-287aa3cfe747------2)
-- [CAPTCHA](https://medium.com/plain-and-simple/captcha-500991bd90a3?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
