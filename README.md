@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Decentralized vs Distributed](https://medium.com/plain-and-simple/decentralized-vs-distributed-1638c09f14e8?source=rss-287aa3cfe747------2)
 - [6 YAML Features most programmers don’t know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3?source=rss-287aa3cfe747------2)
 - [Dependency Vendoring](https://medium.com/plain-and-simple/dependency-vendoring-dd765be75655?source=rss-287aa3cfe747------2)
 - [You might be interested in https://github.com/MartinThoma/clana](https://medium.com/@martinthoma/you-might-be-interested-in-https-github-com-martinthoma-clana-19e8f9cae133?source=rss-287aa3cfe747------2)
 - [New Year 2021](https://medium.com/@martinthoma/new-year-2021-22c2bc07a939?source=rss-287aa3cfe747------2)
-- [Analyzing what I spend money on in 2020](https://medium.com/@martinthoma/analyzing-what-i-spend-money-on-in-2020-c88431c02581?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
