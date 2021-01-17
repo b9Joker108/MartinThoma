@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTPS vs SSL vs TLS](https://medium.com/plain-and-simple/https-vs-ssl-vs-tls-8a0ad0604276?source=rss-287aa3cfe747------2)
 - [The Blockchain](https://medium.com/coinmonks/the-blockchain-473aac352e5?source=rss-287aa3cfe747------2)
 - [Marble Cookies](https://medium.com/smoking-kitchen/marble-cookies-443e111329a5?source=rss-287aa3cfe747------2)
 - [The ‘Literal’ Annotation in Python](https://medium.com/python-in-plain-english/the-literal-annotation-in-python-f882c021ab53?source=rss-287aa3cfe747------2)
 - [Decentralized vs Distributed](https://medium.com/plain-and-simple/decentralized-vs-distributed-1638c09f14e8?source=rss-287aa3cfe747------2)
-- [6 YAML Features most programmers don’t know](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
