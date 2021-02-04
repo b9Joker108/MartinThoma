@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Security](https://levelup.gitconnected.com/docker-security-5f4df118948c?source=rss-287aa3cfe747------2)
 - [Encryption vs Encoding vs Hashing](https://medium.com/plain-and-simple/encryption-vs-encoding-vs-hashing-bb1e166cf15a?source=rss-287aa3cfe747------2)
 - [Insecure Deserialization](https://medium.com/bugbountywriteup/insecure-deserialization-5c64e9943f0e?source=rss-287aa3cfe747------2)
 - [Merkle Trees](https://levelup.gitconnected.com/merkle-trees-e4fdaeaa3094?source=rss-287aa3cfe747------2)
 - [The 3 Applications of Hash Functions](https://levelup.gitconnected.com/the-3-applications-of-hash-functions-fab1a75f4d3d?source=rss-287aa3cfe747------2)
-- [HTTPS vs SSL vs TLS](https://medium.com/plain-and-simple/https-vs-ssl-vs-tls-8a0ad0604276?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
