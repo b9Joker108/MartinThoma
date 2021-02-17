@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The UTXO model](https://medium.com/coinmonks/the-utxo-model-f5eb1fc9a853?source=rss-287aa3cfe747------2)
 - [What Is a Secure Password?](https://medium.com/codestory/what-is-a-secure-password-97263aeedea9?source=rss-287aa3cfe747------2)
 - [Cross-Site Request Forgery](https://infosecwriteups.com/cross-site-request-forgery-ead42933972d?source=rss-287aa3cfe747------2)
 - [Docker Security](https://levelup.gitconnected.com/docker-security-5f4df118948c?source=rss-287aa3cfe747------2)
 - [Encryption vs Encoding vs Hashing](https://medium.com/plain-and-simple/encryption-vs-encoding-vs-hashing-bb1e166cf15a?source=rss-287aa3cfe747------2)
-- [Insecure Deserialization](https://infosecwriteups.com/insecure-deserialization-5c64e9943f0e?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
