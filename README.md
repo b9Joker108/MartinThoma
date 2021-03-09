@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming Interviews: Fizz Buzz](https://medium.com/@martinthoma/programming-interviews-fizz-buzz-882d545c7ad2?source=rss-287aa3cfe747------2)
 - [6 Alternatives to Classes in Python](https://betterprogramming.pub/6-alternatives-to-classes-in-python-6ecb7206377?source=rss-287aa3cfe747------2)
 - [Shift Left: 7 Stages to Speed up Application Development while Improving Quality](https://levelup.gitconnected.com/shift-left-7-stages-to-speed-up-application-development-while-improving-quality-498d9a7b9393?source=rss-287aa3cfe747------2)
 - [The UTXO model](https://medium.com/coinmonks/the-utxo-model-f5eb1fc9a853?source=rss-287aa3cfe747------2)
 - [What Is a Secure Password?](https://medium.com/geekculture/what-is-a-secure-password-97263aeedea9?source=rss-287aa3cfe747------2)
-- [Cross-Site Request Forgery](https://infosecwriteups.com/cross-site-request-forgery-ead42933972d?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
