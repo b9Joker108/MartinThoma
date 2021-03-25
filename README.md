@@ -25,6 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Incentives of Malware Creators](https://martinthoma.medium.com/incentives-of-malware-creators-62319053caf9?source=rss-287aa3cfe747------2)
 - [Credential Stuffing](https://levelup.gitconnected.com/credential-stuffing-ff58ee8c3320?source=rss-287aa3cfe747------2)
 - [Programming Interviews: Fizz Buzz](https://martinthoma.medium.com/programming-interviews-fizz-buzz-882d545c7ad2?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
