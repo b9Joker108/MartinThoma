@@ -27,7 +27,6 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 <!-- BLOG-POST-LIST:START -->
 - [Credential Stuffing](https://levelup.gitconnected.com/credential-stuffing-ff58ee8c3320?source=rss-287aa3cfe747------2)
 - [Programming Interviews: Fizz Buzz](https://martinthoma.medium.com/programming-interviews-fizz-buzz-882d545c7ad2?source=rss-287aa3cfe747------2)
-- [6 Alternatives to Classes in Python](https://betterprogramming.pub/6-alternatives-to-classes-in-python-6ecb7206377?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
