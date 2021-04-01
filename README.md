@@ -25,6 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Techniques To Speed up Your Database](https://betterprogramming.pub/8-techniques-to-speed-up-your-database-292754ff7739?source=rss-287aa3cfe747------2)
 - [Scaling Vertically vs Scaling Horizontally](https://medium.com/plain-and-simple/scaling-vertically-vs-scaling-horizontally-82547a77d925?source=rss-287aa3cfe747------2)
 - [Incentives of Malware Creators](https://martinthoma.medium.com/incentives-of-malware-creators-62319053caf9?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
