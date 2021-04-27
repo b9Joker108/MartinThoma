@@ -25,10 +25,10 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Factor Authentication](https://medium.com/plain-and-simple/multi-factor-authentication-cefff819be95?source=rss-287aa3cfe747------2)
 - [The 7 Types of Cryptocurrencies You Must Know](https://levelup.gitconnected.com/the-7-types-of-cryptocurrencies-you-must-know-3b26b2ce0eb8?source=rss-287aa3cfe747------2)
 - [5 Applications of Digital Signatures](https://levelup.gitconnected.com/5-applications-of-digital-signatures-4e785d22d439?source=rss-287aa3cfe747------2)
 - [The Bitcoin Script Language](https://betterprogramming.pub/the-bitcoin-script-language-e4379908448f?source=rss-287aa3cfe747------2)
-- [Deploy vs Release](https://medium.com/plain-and-simple/deploy-vs-release-8939487a1cdc?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
