@@ -25,7 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Hydrogen Cars will die](https://martinthoma.medium.com/why-hydrogen-cars-will-die-38efd117e7bc?source=rss-287aa3cfe747------2)
+- [Why Hydrogen Cars will die](https://blog.usejournal.com/why-hydrogen-cars-will-die-38efd117e7bc?source=rss-287aa3cfe747------2)
 - [Multi-Factor Authentication](https://medium.com/plain-and-simple/multi-factor-authentication-cefff819be95?source=rss-287aa3cfe747------2)
 - [The 7 Types of Cryptocurrencies You Must Know](https://levelup.gitconnected.com/the-7-types-of-cryptocurrencies-you-must-know-3b26b2ce0eb8?source=rss-287aa3cfe747------2)
 - [5 Applications of Digital Signatures](https://levelup.gitconnected.com/5-applications-of-digital-signatures-4e785d22d439?source=rss-287aa3cfe747------2)
