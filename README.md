@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Robustness and Resiliency Design Patterns to Learn Today](https://levelup.gitconnected.com/10-robustness-and-resiliency-design-patterns-to-learn-today-c03776f73936?source=rss-287aa3cfe747------2)
 - [How to use GPG](https://medium.com/plain-and-simple/how-to-use-gpg-fc095e944120?source=rss-287aa3cfe747------2)
 - [Library vs Service: 7 Arguments to consider](https://levelup.gitconnected.com/library-vs-service-7-arguments-to-consider-5088dced6022?source=rss-287aa3cfe747------2)
 - [Why Hydrogen Cars will die](https://blog.usejournal.com/why-hydrogen-cars-will-die-38efd117e7bc?source=rss-287aa3cfe747------2)
 - [Multi-Factor Authentication](https://medium.com/plain-and-simple/multi-factor-authentication-cefff819be95?source=rss-287aa3cfe747------2)
-- [The 7 Types of Cryptocurrencies You Must Know](https://levelup.gitconnected.com/the-7-types-of-cryptocurrencies-you-must-know-3b26b2ce0eb8?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
