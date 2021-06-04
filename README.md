@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Steps to Software Project Handovers](https://betterprogramming.pub/9-steps-to-software-project-handovers-9325fbb72cfc?source=rss-287aa3cfe747------2)
 - [Hooks vs Callbacks vs Webhooks](https://medium.com/geekculture/hooks-vs-callbacks-vs-webhooks-f2f1fa6bdbcd?source=rss-287aa3cfe747------2)
 - [Synchronous vs Asynchronous vs Concurrent vs Parallel](https://medium.com/plain-and-simple/synchronous-vs-asynchronous-vs-concurrent-vs-parallel-4342bfb8b9f2?source=rss-287aa3cfe747------2)
 - [10 Robustness and Resiliency Design Patterns to Learn Today](https://levelup.gitconnected.com/10-robustness-and-resiliency-design-patterns-to-learn-today-c03776f73936?source=rss-287aa3cfe747------2)
 - [How to use GPG](https://medium.com/plain-and-simple/how-to-use-gpg-fc095e944120?source=rss-287aa3cfe747------2)
-- [Library vs Service: 7 Arguments to consider](https://levelup.gitconnected.com/library-vs-service-7-arguments-to-consider-5088dced6022?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
