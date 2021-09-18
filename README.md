@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Is it worth changing the Lightbulb?](https://medium.com/plain-and-simple/is-it-worth-changing-the-lightbulb-74cb0dea242e?source=rss-287aa3cfe747------2)
 - [Bugs, Issues, Flaws, Faults, Failures, Errors, and Defects](https://medium.com/plain-and-simple/bugs-issues-flaws-faults-failures-errors-and-defects-ca715925a095?source=rss-287aa3cfe747------2)
 - [API Testing with Insomnia](https://levelup.gitconnected.com/api-testing-with-insomnia-a090db3dbde6?source=rss-287aa3cfe747------2)
 - [API Testing with HTTPie](https://levelup.gitconnected.com/api-testing-with-httpie-2d2d0dbe71ab?source=rss-287aa3cfe747------2)
 - [The 7 Branches of Software Gardening](https://martinthoma.medium.com/the-6-branches-of-software-gardening-a90b3c0d6220?source=rss-287aa3cfe747------2)
-- [Blockchain 101](https://levelup.gitconnected.com/blockchain-101-2effaa346196?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
