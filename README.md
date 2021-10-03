@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What developers need to know about PDF](https://medium.com/plain-and-simple/what-developers-need-to-know-about-pdf-ca7f267785d?source=rss-287aa3cfe747------2)
 - [Performance Testing for Web Services](https://levelup.gitconnected.com/performance-testing-for-web-services-b51fffa3bd24?source=rss-287aa3cfe747------2)
 - [Is it worth changing the Lightbulb?](https://medium.com/plain-and-simple/is-it-worth-changing-the-lightbulb-74cb0dea242e?source=rss-287aa3cfe747------2)
 - [Bugs, Issues, Flaws, Faults, Failures, Errors, and Defects](https://medium.com/plain-and-simple/bugs-issues-flaws-faults-failures-errors-and-defects-ca715925a095?source=rss-287aa3cfe747------2)
 - [API Testing with Insomnia](https://levelup.gitconnected.com/api-testing-with-insomnia-a090db3dbde6?source=rss-287aa3cfe747------2)
-- [API Testing with HTTPie](https://levelup.gitconnected.com/api-testing-with-httpie-2d2d0dbe71ab?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
