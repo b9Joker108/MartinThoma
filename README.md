@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Concurrency can Break your Software](https://levelup.gitconnected.com/how-concurrency-can-break-your-software-f777b97d3286?source=rss-287aa3cfe747------2)
 - [Python 3.10 is Released. Know What’s New and If It’s Worth the Switch](https://betterprogramming.pub/python-3-10-is-released-know-whats-new-and-if-it-s-worth-the-switch-19c7a5738f7c?source=rss-287aa3cfe747------2)
 - [What developers need to know about PDF](https://medium.com/plain-and-simple/what-developers-need-to-know-about-pdf-ca7f267785d?source=rss-287aa3cfe747------2)
 - [Performance Testing for Web Services](https://levelup.gitconnected.com/performance-testing-for-web-services-b51fffa3bd24?source=rss-287aa3cfe747------2)
 - [Is it worth changing the Lightbulb?](https://medium.com/plain-and-simple/is-it-worth-changing-the-lightbulb-74cb0dea242e?source=rss-287aa3cfe747------2)
-- [Bugs, Issues, Flaws, Faults, Failures, Errors, and Defects](https://medium.com/plain-and-simple/bugs-issues-flaws-faults-failures-errors-and-defects-ca715925a095?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
