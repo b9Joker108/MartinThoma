@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Smart Home Applications You Should Consider](https://martinthoma.medium.com/7-smart-home-application-you-should-consider-4f59dbada4d4?source=rss-287aa3cfe747------2)
 - [The Ultimate Smart Home Starter Guide](https://medium.com/geekculture/the-ultimate-smart-home-starter-guide-9e94c76447cd?source=rss-287aa3cfe747------2)
 - [How to Annoy a Data Scientist in 11 easy steps](https://martinthoma.medium.com/how-to-annoy-a-data-scientist-in-11-easy-steps-aa566cf753b4?source=rss-287aa3cfe747------2)
 - [9 Clean Code Patterns I wish I knew earlier](https://towardsdatascience.com/9-clean-code-patterns-i-wish-i-knew-earlier-57ee56c5892?source=rss-287aa3cfe747------2)
 - [How Concurrency can Break your Software](https://levelup.gitconnected.com/how-concurrency-can-break-your-software-f777b97d3286?source=rss-287aa3cfe747------2)
-- [Python 3.10 is Released. Know What’s New and If It’s Worth the Switch](https://betterprogramming.pub/python-3-10-is-released-know-whats-new-and-if-it-s-worth-the-switch-19c7a5738f7c?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
