@@ -25,7 +25,7 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Log4Shell: The log4j Javageddon](https://levelup.gitconnected.com/the-log4j-javageddon-eec906b5e6fa?source=rss-287aa3cfe747------2)
+- [Log4Shell: The log4j Javageddon](https://faun.pub/the-log4j-javageddon-eec906b5e6fa?source=rss-287aa3cfe747------2)
 - [7 Smart Home Applications You Should Consider](https://martinthoma.medium.com/7-smart-home-application-you-should-consider-4f59dbada4d4?source=rss-287aa3cfe747------2)
 - [The Ultimate Smart Home Starter Guide](https://medium.com/geekculture/the-ultimate-smart-home-starter-guide-9e94c76447cd?source=rss-287aa3cfe747------2)
 - [How to Annoy a Data Scientist in 11 easy steps](https://martinthoma.medium.com/how-to-annoy-a-data-scientist-in-11-easy-steps-aa566cf753b4?source=rss-287aa3cfe747------2)
