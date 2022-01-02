@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Standardizations that are just too damn hard to get](https://martinthoma.medium.com/6-standardizations-that-are-just-too-damn-hard-to-get-1e4277af6749?source=rss-287aa3cfe747------2)
 - [New Year 2022](https://medium.com/swlh/new-year-2022-8cd6ff0bf5a0?source=rss-287aa3cfe747------2)
 - [The Software Engineering Career Ladder](https://medium.com/geekculture/the-software-engineering-career-ladder-3667282aeaa2?source=rss-287aa3cfe747------2)
 - [Crypto Predictions of 2021: Evaluated](https://medium.com/coinmonks/crypto-predictions-of-2021-evaluated-972c2993214f?source=rss-287aa3cfe747------2)
 - [Log4Shell: The log4j Javageddon](https://systemweakness.com/the-log4j-javageddon-eec906b5e6fa?source=rss-287aa3cfe747------2)
-- [7 Smart Home Applications You Should Consider](https://martinthoma.medium.com/7-smart-home-application-you-should-consider-4f59dbada4d4?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
