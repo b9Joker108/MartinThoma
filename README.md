@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The State of PyPI — 2022 Edition](https://medium.com/geekculture/the-state-of-pypi-2022-edition-d8e2cba9de2c?source=rss-287aa3cfe747------2)
 - [5 Ways to get Enums in Python](https://betterprogramming.pub/5-ways-to-get-enums-in-python-3e5d6e610ec1?source=rss-287aa3cfe747------2)
 - [What’s the deal with serverless architectures?](https://medium.com/geekculture/whats-the-deal-with-serverless-architectures-33a75472f659?source=rss-287aa3cfe747------2)
 - [The Causes of Supply Shortages in 2021](https://martinthoma.medium.com/the-causes-of-supply-shortages-in-2021-5ad779d148b9?source=rss-287aa3cfe747------2)
 - [Risks and Benefits of The 9 Popular Software Design Principles](https://betterprogramming.pub/risks-and-benefits-of-the-9-popular-software-design-principles-284f8d319ef1?source=rss-287aa3cfe747------2)
-- [6 Standardizations that are just too damn hard to get](https://martinthoma.medium.com/6-standardizations-that-are-just-too-damn-hard-to-get-1e4277af6749?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
