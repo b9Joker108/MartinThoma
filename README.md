@@ -25,11 +25,11 @@ If you like my work, you can support me: [![PayPal](https://img.shields.io/badge
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ReDoS — Denial of Service by RegEx](https://infosecwriteups.com/redos-denial-of-service-by-regex-59c7ffab4880?source=rss-287aa3cfe747------2)
 - [4 Alternatives to the Standard Interactive Python Shell](https://python.plainenglish.io/4-alternatives-to-the-standard-interactive-python-shell-ff496200b01f?source=rss-287aa3cfe747------2)
 - [Designing Beautiful Command-Line Applications With Python](https://betterprogramming.pub/designing-beautiful-command-line-applications-with-python-72bd2f972ea?source=rss-287aa3cfe747------2)
 - [The State of PyPI — 2022 Edition](https://medium.com/geekculture/the-state-of-pypi-2022-edition-d8e2cba9de2c?source=rss-287aa3cfe747------2)
 - [5 Ways to get Enums in Python](https://betterprogramming.pub/5-ways-to-get-enums-in-python-3e5d6e610ec1?source=rss-287aa3cfe747------2)
-- [What’s the deal with serverless architectures?](https://medium.com/geekculture/whats-the-deal-with-serverless-architectures-33a75472f659?source=rss-287aa3cfe747------2)
 <!-- BLOG-POST-LIST:END -->
 
 
