@@ -6,8 +6,7 @@
 
 ### Hi 👋
 
-I'm Martin and I am currently based in Munich (Germany) working as a Data
-Scientist and Python developer.
+I'm Martin and I am currently based in Germany working as a Lead Developer / Python Backend Dev.
 
 * 🤝 Interested in open source and free software projects.
 * 📫 You can reach me best via e-mail to info@martin-thoma.de
